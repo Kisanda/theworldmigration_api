@@ -1,0 +1,5 @@
+# Local development only: copy to .dev.vars and replace these values.
+# Never upload .dev.vars to GitHub.
+ADMIN_API_KEY="replace-with-a-new-random-admin-key"
+EDITOR_PASSWORD="replace-with-a-separate-editor-password"
+ALLOWED_ORIGINS="http://localhost:5175,http://127.0.0.1:5175"

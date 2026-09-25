@@ -390,7 +390,7 @@
       {
         "key": "mission",
         "label": "Mission",
-        "default": "At Expert4visas, our team of licensed and qualified consultants work closely with clients to bring about the best solutions to all their immigration objectives whilst maintaining confidentiality and other high professional standards. We build strong networks in source countries and our in-depth knowledge of complex and diverse immigration laws that are constantly being updated help achieve optimum results. We invest our energy, experience and knowledge to help create brand new opportunities in the practice of immigration.",
+        "default": "At The World Migration, our team of licensed and qualified consultants work closely with clients to bring about the best solutions to all their immigration objectives whilst maintaining confidentiality and other high professional standards. We build strong networks in source countries and our in-depth knowledge of complex and diverse immigration laws that are constantly being updated help achieve optimum results. We invest our energy, experience and knowledge to help create brand new opportunities in the practice of immigration.",
         "type": "textarea",
         "max_length": 1500
       }
@@ -402,7 +402,7 @@
       {
         "key": "welcome_0",
         "label": "Introduction paragraph 1",
-        "default": "Expert4visas is a renowned immigration consultancy with over a decade of expertise in this industry. Our client centric approach and dedicated service will ensure that our clients qualify and get through this process at the first attempt. With a global presence and fail safe operation strategy, we will help your dreams materialize.",
+        "default": "The World Migration is a renowned immigration consultancy with over a decade of expertise in this industry. Our client centric approach and dedicated service will ensure that our clients qualify and get through this process at the first attempt. With a global presence and fail safe operation strategy, we will help your dreams materialize.",
         "type": "textarea",
         "max_length": 1500
       },
@@ -433,7 +433,7 @@
       {
         "key": "about_detail_1",
         "label": "Our team",
-        "default": "Expert4visas is the brain child of a team of experts with extensive and in-house experience in the UK and Canadian Immigration Departments. This consultancy has been set up post the retirement of our team members with the vision of helping people to get their visa application processed smoothly. You can be rest assured that you will fully qualify for the chosen visa of your preference with our impartial advice, offered free of charge even before you become a paying client.",
+        "default": "The World Migration is the brain child of a team of experts with extensive and in-house experience in the UK and Canadian Immigration Departments. This consultancy has been set up post the retirement of our team members with the vision of helping people to get their visa application processed smoothly. You can be rest assured that you will fully qualify for the chosen visa of your preference with our impartial advice, offered free of charge even before you become a paying client.",
         "type": "textarea",
         "max_length": 1500
       }
@@ -445,7 +445,7 @@
       {
         "key": "about_detail_2",
         "label": "Our Standards",
-        "default": "Expert4visas is a trusted name in the migration consultancy field with a global presence and we are accredited by the Immigration Consultants of Canada Regulatory Council (ICCRC) and Migration Agents Registration Authority (MARA) in Australia. We truly believe that integrity and honesty should be a key part of the proceedings and the services provided here conform to the highest global standards.",
+        "default": "The World Migration is a trusted name in the migration consultancy field with a global presence and we are accredited by the Immigration Consultants of Canada Regulatory Council (ICCRC) and Migration Agents Registration Authority (MARA) in Australia. We truly believe that integrity and honesty should be a key part of the proceedings and the services provided here conform to the highest global standards.",
         "type": "textarea",
         "max_length": 1500
       }
@@ -457,7 +457,7 @@
       {
         "key": "about_detail_3",
         "label": "Why Us?",
-        "default": "Well, you may rightfully ask, why Expert4visas over any other consultancy? We are very proud about the fact that we are extremely honest, reliable and provide service that is 100% value for money. Further, scores of people have benefitted from our “no obligation free visa assessment” that has guided them throughout the complex process with our step by step assistance. Furthermore, we are very pleased to announce that most of our new clients are referral clients and our biggest marketing tool has been word of mouth referral by past clients. For a journey that will be truly special, join hands with Expert4visas.",
+        "default": "Well, you may rightfully ask, why The World Migration over any other consultancy? We are very proud about the fact that we are extremely honest, reliable and provide service that is 100% value for money. Further, scores of people have benefitted from our “no obligation free visa assessment” that has guided them throughout the complex process with our step by step assistance. Furthermore, we are very pleased to announce that most of our new clients are referral clients and our biggest marketing tool has been word of mouth referral by past clients. For a journey that will be truly special, join hands with The World Migration.",
         "type": "textarea",
         "max_length": 1500
       }
